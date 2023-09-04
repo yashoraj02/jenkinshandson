@@ -1,4 +1,4 @@
-DeleteMeForSure
+DeleteMeForSurely
 
 Addressbook Tutorial
 ====================
